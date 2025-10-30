@@ -41,7 +41,7 @@ The DVS (Dynamic Vision Sensor) captures motion as asynchronous **spike events**
 
 📈 **Graphs and Results**
   
-![Accuracy Graph](images/1.png)
+![Accuracy Graph](1.png)
 
 ---
 
@@ -49,7 +49,7 @@ The DVS (Dynamic Vision Sensor) captures motion as asynchronous **spike events**
 
 Visualizes model performance across all gesture classes.
 
-![Confusion Matrix](images/2.png)
+![Confusion Matrix](2.png)
 
 ---
 
